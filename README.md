@@ -2,6 +2,8 @@
 
 ![YaeSakuraQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeSakuraQ&show_icons=true&theme=radical&commits_year=2026)
 
+[![YaeSakuraQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YaeSakuraQ)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YaeSakuraQ&left_color=green&right_color=red)
 <!--
 **YaeSakuraQ/YaeSakuraQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

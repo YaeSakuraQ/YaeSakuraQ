@@ -4,7 +4,7 @@
 
 [![YaeSakuraQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YaeSakuraQ)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YaeSakuraQ)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YaeSakuraQ)](https://git.io/streak-stats)  ![](https://stats.justsong.cn/api/leetcode?username=YaeSakuraQ&cn=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YaeSakuraQ&left_color=green&right_color=red)
 <!--

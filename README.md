@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm a student at the School of Information of Xiamen University.
+## I'm a student at the School of Information of Xiamen University.
 
 [![YaeSakuraQ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YaeSakuraQ)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

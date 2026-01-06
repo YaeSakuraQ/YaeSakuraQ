@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![YaeSakuraQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeSakuraQ&show_icons=true)
+![YaeSakuraQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeSakuraQ&show_icons=true&theme=radical&commits_year=2026)
 
 
 <!--
